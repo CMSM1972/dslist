@@ -12,7 +12,7 @@
 	<artifactId>dslist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dslist</name>
-	<description>Intensivão Java Spring</description>
+	<description>Intesivão Java Spring</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -64,7 +64,6 @@
 			<artifactId>maven-resources-plugin</artifactId>
 			<version>3.1.0</version> <!--$NO-MVN-MAN-VER$ -->
 		</plugin>
-		
 		
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
